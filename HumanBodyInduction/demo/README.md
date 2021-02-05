@@ -2,6 +2,7 @@
 
 树莓派4B引脚：
 
+![image](https://github.com/skyjilygao/RaspBerry-Demo/blob/main/HumanBodyInduction/demo/image-20210205230937961.png)
 ## 人体感应模块
 模块的工作电压是5v，所以vcc接了pin02，gnd接了pin06，中间的那个是判断有没有人的需要用gpio接收感应，就用了一个gpio针，接到了pin12上
 
